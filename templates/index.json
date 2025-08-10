@@ -794,7 +794,14 @@
           "settings": {
             "title": "#LAGlowUp",
             "title_color": "",
+            "title_size_v2": 0,
             "alignment": "center",
+            "instafeed_margin_top": 0,
+            "instafeed_margin_bottom": 0,
+            "instafeed_margin_sides": 0,
+            "show_instagram_link": false,
+            "link_alignment": "left",
+            "link_color": "#000000",
             "background_color": "",
             "feed_id": "",
             "html_area": ""
@@ -834,7 +841,14 @@
           "settings": {
             "title": "",
             "title_color": "",
+            "title_size_v2": 0,
             "alignment": "center",
+            "instafeed_margin_top": 0,
+            "instafeed_margin_bottom": 0,
+            "instafeed_margin_sides": 0,
+            "show_instagram_link": false,
+            "link_alignment": "left",
+            "link_color": "#000000",
             "background_color": "",
             "feed_id": "",
             "html_area": ""
@@ -849,6 +863,13 @@
         "separate_section_with_border": false,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false
+      }
+    },
+    "tailwind_section_design_BQrpYb": {
+      "type": "tailwind-section-design",
+      "name": "tailwid design",
+      "settings": {
+        "heading": "Welcome to our store!"
       }
     }
   },
@@ -871,6 +892,7 @@
     "image_collection_products_HR698i",
     "173337955930e93a8e",
     "newsletter",
-    "1737356702ca10dbac"
+    "1737356702ca10dbac",
+    "tailwind_section_design_BQrpYb"
   ]
 }
