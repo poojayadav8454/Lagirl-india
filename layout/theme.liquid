@@ -95,8 +95,11 @@
     {{ content_for_header }}
 
     {{- 'theme.css' | asset_url | stylesheet_tag: preload: true -}}
+<<<<<<< HEAD
     {{- 'tailwind-out.css' | asset_url | stylesheet_tag: preload: true -}}
 
+=======
+>>>>>>> a92ac44021fb96fb86f780ef343c94ae72326575
     {{- 'customfile.css' | asset_url | stylesheet_tag: preload: true -}}
 
     <!-- Google tag (gtag.js) -->
@@ -146,9 +149,12 @@
   %}
 
   <body class="{{ features_class }} color-scheme color-scheme--{{ settings.default_color_scheme.id }}">
+<<<<<<< HEAD
      <h1 class="text-3xl font-bold underline">
     Hello world!
   </h1>
+=======
+>>>>>>> a92ac44021fb96fb86f780ef343c94ae72326575
     <!-- {% render 'snowfall' %} -->
     <!-- Google Tag Manager (noscript) -->
     <noscript
