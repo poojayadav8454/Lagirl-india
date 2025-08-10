@@ -191,7 +191,7 @@
   }
 }
 body {
-  background-color: blue !important;
+  background-color: red !important;
 }
 @property --tw-rotate-x {
   syntax: "*";
